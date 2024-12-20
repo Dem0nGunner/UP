@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\tableform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\tableform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\reportform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\reportform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\tablesres\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\tablesres\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\searchform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\searchform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\reportform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\reportform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\searchform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\searchform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\tableform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\tableform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|c:\\users\\\u0441\u0430\u043C\u044B\u0439 \u0441\u0430\u0441\u043D\u044B\u0439 \u043C\u0443\u0436\u0438\u043A\\desktop\\sdacha\\appfactory\\appproject\\tablesres\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBD5FA-4496-4F56-9CEB-19FB239DFD5D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\tablesres\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AppProject\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAApwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:13:06.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\ReportForm.xaml.cs",
+              "RelativeDocumentMoniker": "AppProject\\ReportForm.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\ReportForm.xaml.cs",
+              "RelativeToolTip": "AppProject\\ReportForm.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAApwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:04:07.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\Database.cs",
+              "RelativeDocumentMoniker": "AppProject\\Database.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\Database.cs",
+              "RelativeToolTip": "AppProject\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:54:33.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\TableForm.xaml.cs",
+              "RelativeDocumentMoniker": "AppProject\\TableForm.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\TableForm.xaml.cs",
+              "RelativeToolTip": "AppProject\\TableForm.xaml.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAkwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:59:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelHelper.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\ExcelHelper.cs",
+              "RelativeDocumentMoniker": "AppProject\\ExcelHelper.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\ExcelHelper.cs",
+              "RelativeToolTip": "AppProject\\ExcelHelper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:55:49.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "AppProject\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\Registration.xaml.cs",
+              "RelativeToolTip": "AppProject\\Registration.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:07:23.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supply.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\TablesRes\\Supply.cs",
+              "RelativeDocumentMoniker": "AppProject\\TablesRes\\Supply.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\TablesRes\\Supply.cs",
+              "RelativeToolTip": "AppProject\\TablesRes\\Supply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:59:49.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchForm.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\SearchForm.xaml",
+              "RelativeDocumentMoniker": "AppProject\\SearchForm.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\SearchForm.xaml",
+              "RelativeToolTip": "AppProject\\SearchForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T23:58:50.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\Registration.xaml",
+              "RelativeDocumentMoniker": "AppProject\\Registration.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\Registration.xaml",
+              "RelativeToolTip": "AppProject\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T09:07:22.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportForm.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\ReportForm.xaml",
+              "RelativeDocumentMoniker": "AppProject\\ReportForm.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\ReportForm.xaml",
+              "RelativeToolTip": "AppProject\\ReportForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T07:04:09.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\TablesRes\\Details.cs",
+              "RelativeDocumentMoniker": "AppProject\\TablesRes\\Details.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\TablesRes\\Details.cs",
+              "RelativeToolTip": "AppProject\\TablesRes\\Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:48:38.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TableForm.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\TableForm.xaml",
+              "RelativeDocumentMoniker": "AppProject\\TableForm.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\TableForm.xaml",
+              "RelativeToolTip": "AppProject\\TableForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T15:50:44.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\SearchForm.xaml.cs",
+              "RelativeDocumentMoniker": "AppProject\\SearchForm.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0410\u041C\u042B\u0419 \u0421\u0410\u0421\u041D\u042B\u0419 \u041C\u0423\u0416\u0418\u041A\\Desktop\\Sdacha\\AppFactory\\AppProject\\SearchForm.xaml.cs",
+              "RelativeToolTip": "AppProject\\SearchForm.xaml.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAcwGABAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:59:01.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
